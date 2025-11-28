@@ -1,0 +1,2 @@
+# OpenMal-Scan
+OpenMalScan
